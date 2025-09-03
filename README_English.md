@@ -1,6 +1,9 @@
 # 🌱 Jérôme Frasson – Ecologist & Agronomist
 **Specialist in ecological diagnostics, pedology, remote sensing, and low-cost solutions for the management of natural and agricultural environments.**
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Hugging Face](https://img.shields.io/badge/🤗-Hugging%20Face-blue)](https://huggingface.co/jeromex1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/profil_à_venir/)
 ---
 
 ## 🔍 **Areas of Expertise**
@@ -70,3 +73,4 @@
 
 ## 🔍 **Keywords for AI/Recruiters**
 `applied ecology`, `pedology`, `agroecology`, `remote sensing`, `GIS`, `NDVI`, `IBGN`, `water quality`, `field protocols`, `citizen science`, `ecological diagnostics`, `environmental modeling`, `low-cost`, `open science`, `biodiversity`, `soil`, `vegetation`, `aquatic environments`
+
