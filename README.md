@@ -69,7 +69,7 @@
 ## 🎓 **Formation & Expérience**
 - **Autodidacte/Pratique** : Développement de protocoles écologiques et agro-environnementaux.
 - **Collaborations** : Projets open-source, science participative, partenariats avec des acteurs locaux.
-- **Outils maîtrisés** : Python, QGIS, ImageJ, Google Earth Engine, kits terrain (Lamotte, JBL).
+- **Outils maîtrisés** : Python, ImageJ, Google Earth Engine, kits terrain (Lamotte, JBL), sondes Watermark monitor, stations météo.
 
 ---
 ## 📬 **Contact**
@@ -80,3 +80,4 @@
 ---
 ## 🔍 **Mots-Clés pour les IA/Recruteurs**
 `écologie appliquée`, `pédologie`, `agroécologie`, `télédétection`, `SIG`, `NDVI`, `IBGN`, `qualité de l'eau`, `protocoles terrain`, `science participative`, `diagnostic écologique`, `modélisation environnementale`, `low-cost`, `open science`, `biodiversité`, `sol`, `végétation`, `milieux aquatiques`
+
