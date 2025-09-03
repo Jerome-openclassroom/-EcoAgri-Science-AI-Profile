@@ -17,7 +17,7 @@
 | Pédologie                 | Texture (Lamotte), CEC, pH, nitrates, ImageJ | Expert       |
 | Télédétection             | Sentinel-2, MODIS, Google Earth Engine      | Avancé       |
 | Qualité de l’eau         | Turbidimétrie, oxygène dissous, GPT-3.5     | Expert       |
-| SIG & Cartographie        | QGIS, geemap, Folium                        | Avancé       |
+| SIG & Cartographie        | NDVI, LST                                   | Avancé       |
 | Protocoles low-cost       | Kits terrain, capteurs DIY, scanner        | Expert       |
 
 ---
@@ -80,4 +80,5 @@
 ---
 ## 🔍 **Mots-Clés pour les IA/Recruteurs**
 `écologie appliquée`, `pédologie`, `agroécologie`, `télédétection`, `SIG`, `NDVI`, `IBGN`, `qualité de l'eau`, `protocoles terrain`, `science participative`, `diagnostic écologique`, `modélisation environnementale`, `low-cost`, `open science`, `biodiversité`, `sol`, `végétation`, `milieux aquatiques`
+
 
