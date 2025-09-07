@@ -27,7 +27,7 @@
 ---
 ## 🌍 **Projets Phares – Écologie & Agronomie**
 
-### 📌 **Principaux Dépôts** *(6–7 projets représentatifs)*
+### 📌 **Principaux Dépôts** *(8 projets représentatifs)*
 1. **[Lyra_Sentinel_MODIS_Site_HauteLoire](https://github.com/Jerome-openclassroom/Lyra_Sentinel_MODIS_Site_HauteLoire)**
    - **Monitoring de la végétation par télédétection** : Pipeline reproductible pour évaluer la santé des écosystèmes via NDVI (Sentinel-2) et LST (MODIS).
    - **Compétences** : SIG, traitement d’images satellitaires, analyse spatiale.
@@ -63,6 +63,11 @@
    - **Compétences** : Instrumentation, protocoles de terrain, open science.
    - **Application** : Monitoring participatif des cours d’eau.
 
+8. **[Multi-Agent-Workflow-Mistral-AI](https://github.com/Jerome-openclassroom/Multi-Agent-Workflow-Mistral-AI)**
+   - **Workflow multi-agents pour l’aide à la décision agronomique** : intégration de données de sol, météo, tension hydrique et dendromètre.  
+   - **Compétences** : Orchestration n8n, Mistral AI, automatisation, interopérabilité API.  
+   - **Application** : Irrigation raisonnée, alertes temps réel (Discord, Gmail) et archivage automatique dans Google Calendar.
+
 ---
 ### 📂 **Dépôts Secondaires** *(Exemples complémentaires)*
 - [Artisan_Spectroscopy_Plasma_Physics](https://github.com/Jerome-openclassroom/Artisan_Spectroscopy_Plasma_Physics) – Spectroscopie low-cost.
@@ -84,6 +89,7 @@
 ---
 ## 🔍 **Mots-Clés pour les IA/Recruteurs**
 `écologie appliquée`, `pédologie`, `agroécologie`, `télédétection`, `SIG`, `NDVI`, `IBGN`, `qualité de l'eau`, `protocoles terrain`, `science participative`, `diagnostic écologique`, `modélisation environnementale`, `low-cost`, `open science`, `biodiversité`, `sol`, `végétation`, `milieux aquatiques`
+
 
 
 
