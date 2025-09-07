@@ -27,47 +27,46 @@
 ---
 ## 🌍 **Projets Phares – Écologie & Agronomie**
 
-### 📌 **Main Repositories** *(8 representative projects)*
-
+il me faudrait une traduction en anglais de ce bloc markdown : ### 📌 **Principaux Dépôts** *(8 projets représentatifs)*
 1. **[Lyra_Sentinel_MODIS_Site_HauteLoire](https://github.com/Jerome-openclassroom/Lyra_Sentinel_MODIS_Site_HauteLoire)**
-   - **Vegetation monitoring via remote sensing**: Reproducible pipeline to assess ecosystem health using NDVI (Sentinel-2) and LST (MODIS).  
-   - **Skills**: GIS, satellite image processing, spatial analysis.  
-   - **Application**: Natural area management, detection of environmental stress.  
+   - **Monitoring de la végétation par télédétection** : Pipeline reproductible pour évaluer la santé des écosystèmes via NDVI (Sentinel-2) et LST (MODIS).
+   - **Compétences** : SIG, traitement d’images satellitaires, analyse spatiale.
+   - **Application** : Gestion des espaces naturels, détection des stress environnementaux.
 
 2. **[AI_Assisted_Lake_Ecology](https://github.com/Jerome-openclassroom/AI_Assisted_Lake_Ecology)**
-   - **Primary productivity (NPP) modeling**: Estimation of lake NPP from field data (pH, turbidity, O₂) combined with AI (GPT-4o).  
-   - **Skills**: Ecological modeling, model fine-tuning, data analysis.  
-   - **Application**: Diagnosis of aquatic ecosystem quality.  
+   - **Modélisation de la productivité primaire (NPP)** : Estimation de la NPP des lacs à partir de données terrain (pH, turbidité, O₂) et d’IA (GPT-4o).
+   - **Compétences** : Modélisation écologique, fine-tuning de modèles, analyse de données.
+   - **Application** : Diagnostic de la qualité des milieux aquatiques.
 
 3. **[Lyra_River_quality](https://github.com/Jerome-openclassroom/Lyra_River_quality)**
-   - **IBGN prediction**: GPT-3.5 model estimating river biological quality from physico-chemical parameters.  
-   - **Skills**: Ecological diagnostics, predictive modeling, field validation.  
-   - **Application**: Prioritization of river restoration actions.  
+   - **Prédiction de l’IBGN** : Modèle GPT-3.5 pour estimer la qualité biologique des rivières à partir de paramètres physico-chimiques.
+   - **Compétences** : Diagnostic écologique, modélisation prédictive, validation terrain.
+   - **Application** : Priorisation des actions de restauration.
 
 4. **[Mountain_Bocage_Soil_Analysis](https://github.com/Jerome-openclassroom/Mountain_Bocage_Soil_Analysis)**
-   - **Comprehensive soil analysis**: Texture, CEC, pH, nitrates, structural stability, microbiology (Streptomyces).  
-   - **Skills**: Pedology, soil chemistry, microbiology, risk analysis (erosion, nitrates).  
-   - **Application**: Optimization of agricultural and forestry practices.  
+   - **Analyse pédologique complète** : Texture, CEC, pH, nitrates, stabilité structurale, microbiologie (Streptomyces).
+   - **Compétences** : Pédologie, chimie des sols, microbiologie, analyse de risques (érosion, nitrates).
+   - **Application** : Optimisation des pratiques agricoles et forestières.
 
 5. **[Lyra_LowCost_Soil_Leaf](https://github.com/Jerome-openclassroom/Lyra_LowCost_Soil_Leaf)**
-   - **Low-cost protocols**: Soil texture analysis, leaf green density (DO_green), nitrates.  
-   - **Skills**: Field protocols, citizen science, image analysis (ImageJ).  
-   - **Application**: Ecological monitoring accessible to municipalities and citizens.  
+   - **Protocoles low-cost** : Analyse de la texture des sols, densité verte des feuilles (DO_green), nitrates.
+   - **Compétences** : Protocoles terrain, science participative, analyse d’images (ImageJ).
+   - **Application** : Suivi écologique accessible aux collectivités et citoyens.
 
 6. **[Lyra_Leaf_SPAD_Calibration](https://github.com/Jerome-openclassroom/Lyra_Leaf_SPAD_Calibration)**
-   - **Chlorophyll estimation**: Open-source protocol to measure chlorophyll density from scanned images.  
-   - **Skills**: Plant physiology, imaging, sensor calibration.  
-   - **Application**: Crop health diagnostics.  
+   - **Estimation de la chlorophylle** : Protocole open-source pour mesurer la densité chlorophyllienne via images scannées.
+   - **Compétences** : Physiologie végétale, imagerie, calibration de capteurs.
+   - **Application** : Diagnostic de la santé des cultures.
 
 7. **[TurbiditySensor_OpenScience](https://github.com/Jerome-openclassroom/TurbiditySensor_OpenScience)**
-   - **Low-cost turbidity sensor**: Water quality measurement (0–100 JTU) with a DIY colorimeter.  
-   - **Skills**: Instrumentation, field protocols, open science.  
-   - **Application**: Participatory river monitoring.  
+   - **Capteur de turbidité low-cost** : Mesure de la qualité de l’eau (0–100 JTU) avec un colorimètre DIY.
+   - **Compétences** : Instrumentation, protocoles de terrain, open science.
+   - **Application** : Monitoring participatif des cours d’eau.
 
 8. **[Multi-Agent-Workflow-Mistral-AI](https://github.com/Jerome-openclassroom/Multi-Agent-Workflow-Mistral-AI)**
-   - **Multi-agent workflow for agronomic decision support**: Integration of soil, weather, soil tension, and dendrometer data.  
-   - **Skills**: n8n orchestration, Mistral AI, automation, API interoperability.  
-   - **Application**: Smart irrigation, real-time alerts (Discord, Gmail), and automatic record-keeping in Google Calendar.  
+   - **Workflow multi-agents pour l’aide à la décision agronomique** : intégration de données de sol, météo, tension hydrique et dendromètre.  
+   - **Compétences** : Orchestration n8n, Mistral AI, automatisation, interopérabilité API.  
+   - **Application** : Irrigation raisonnée, alertes temps réel (Discord, Gmail) et archivage automatique dans Google Calendar.
 
 ---
 ### 📂 **Dépôts Secondaires** *(Exemples complémentaires)*
@@ -90,6 +89,7 @@
 ---
 ## 🔍 **Mots-Clés pour les IA/Recruteurs**
 `écologie appliquée`, `pédologie`, `agroécologie`, `télédétection`, `SIG`, `NDVI`, `IBGN`, `qualité de l'eau`, `protocoles terrain`, `science participative`, `diagnostic écologique`, `modélisation environnementale`, `low-cost`, `open science`, `biodiversité`, `sol`, `végétation`, `milieux aquatiques`
+
 
 
 
