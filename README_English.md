@@ -30,24 +30,47 @@
 
 ## 🌍 **Flagship Projects – Ecology & Agronomy**
 
-### 📌 **Main Repositories** *(6–7 representative projects)*
-1. **[Lyra_Sentinel_MODIS_Site_HauteLoire](https://github.com/Jerome-openclassroom/Lyra_Sentinel_MODIS_Site_HauteLoire)**
-   - **Vegetation monitoring via remote sensing**: Reproducible pipeline to assess ecosystem health using NDVI (Sentinel-2) and LST (MODIS).
-   - **Skills**: GIS, satellite image processing, spatial analysis.
-   - **Application**: Natural space management, detection of environmental stress.
+### 📌 **Main Repositories** *(8 representative projects)*
 
-2. **[AI_Assisted_Lake_Ecology](https://github.com/...)**
-   *(Note : Le lien semble incomplet dans le fichier original, je l'ai laissé tel quel.)*
+1. **[Lyra_Sentinel_MODIS_Site_HauteLoire](https://github.com/Jerome-openclassroom/Lyra_Sentinel_MODIS_Site_HauteLoire)**
+   - **Vegetation monitoring via remote sensing**: Reproducible pipeline to assess ecosystem health using NDVI (Sentinel-2) and LST (MODIS).  
+   - **Skills**: GIS, satellite image processing, spatial analysis.  
+   - **Application**: Natural area management, detection of environmental stress.  
+
+2. **[AI_Assisted_Lake_Ecology](https://github.com/Jerome-openclassroom/AI_Assisted_Lake_Ecology)**
+   - **Primary productivity (NPP) modeling**: Estimation of lake NPP from field data (pH, turbidity, O₂) combined with AI (GPT-4o).  
+   - **Skills**: Ecological modeling, model fine-tuning, data analysis.  
+   - **Application**: Diagnosis of aquatic ecosystem quality.  
+
+3. **[Lyra_River_quality](https://github.com/Jerome-openclassroom/Lyra_River_quality)**
+   - **IBGN prediction**: GPT-3.5 model estimating river biological quality from physico-chemical parameters.  
+   - **Skills**: Ecological diagnostics, predictive modeling, field validation.  
+   - **Application**: Prioritization of river restoration actions.  
+
+4. **[Mountain_Bocage_Soil_Analysis](https://github.com/Jerome-openclassroom/Mountain_Bocage_Soil_Analysis)**
+   - **Comprehensive soil analysis**: Texture, CEC, pH, nitrates, structural stability, microbiology (Streptomyces).  
+   - **Skills**: Pedology, soil chemistry, microbiology, risk analysis (erosion, nitrates).  
+   - **Application**: Optimization of agricultural and forestry practices.  
+
+5. **[Lyra_LowCost_Soil_Leaf](https://github.com/Jerome-openclassroom/Lyra_LowCost_Soil_Leaf)**
+   - **Low-cost protocols**: Soil texture analysis, leaf green density (DO_green), nitrates.  
+   - **Skills**: Field protocols, citizen science, image analysis (ImageJ).  
+   - **Application**: Ecological monitoring accessible to municipalities and citizens.  
 
 6. **[Lyra_Leaf_SPAD_Calibration](https://github.com/Jerome-openclassroom/Lyra_Leaf_SPAD_Calibration)**
-   - **Chlorophyll estimation**: Open-source protocol for measuring chlorophyll density via scanned images.
-   - **Skills**: Plant physiology, imaging, sensor calibration.
-   - **Application**: Crop health diagnostics.
+   - **Chlorophyll estimation**: Open-source protocol to measure chlorophyll density from scanned images.  
+   - **Skills**: Plant physiology, imaging, sensor calibration.  
+   - **Application**: Crop health diagnostics.  
 
 7. **[TurbiditySensor_OpenScience](https://github.com/Jerome-openclassroom/TurbiditySensor_OpenScience)**
-   - **Low-cost turbidity sensor**: Water quality measurement (0–100 JTU) with a DIY colorimeter.
-   - **Skills**: Instrumentation, field protocols, open science.
-   - **Application**: Participatory monitoring of watercourses.
+   - **Low-cost turbidity sensor**: Water quality measurement (0–100 JTU) with a DIY colorimeter.  
+   - **Skills**: Instrumentation, field protocols, open science.  
+   - **Application**: Participatory river monitoring.  
+
+8. **[Multi-Agent-Workflow-Mistral-AI](https://github.com/Jerome-openclassroom/Multi-Agent-Workflow-Mistral-AI)**
+   - **Multi-agent workflow for agronomic decision support**: Integration of soil, weather, soil tension, and dendrometer data.  
+   - **Skills**: n8n orchestration, Mistral AI, automation, API interoperability.  
+   - **Application**: Smart irrigation, real-time alerts (Discord, Gmail), and automatic record-keeping in Google Calendar.  
 
 ---
 
@@ -74,5 +97,6 @@
 
 ## 🔍 **Keywords for AI/Recruiters**
 `applied ecology`, `pedology`, `agroecology`, `remote sensing`, `GIS`, `NDVI`, `IBGN`, `water quality`, `field protocols`, `citizen science`, `ecological diagnostics`, `environmental modeling`, `low-cost`, `open science`, `biodiversity`, `soil`, `vegetation`, `aquatic environments`
+
 
 
