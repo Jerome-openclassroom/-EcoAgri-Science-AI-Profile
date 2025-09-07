@@ -1,5 +1,5 @@
 # 🌱 Jérôme Frasson – Écologue & Agronome
-**Spécialiste en diagnostic écologique, pédologie, télédétection et solutions low-cost pour la gestion des milieux naturels et agricoles.**
+**Spécialiste en diagnostic écologique, pédologie et solutions low-cost pour la gestion des milieux naturels et agricoles.**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Hugging Face](https://img.shields.io/badge/🤗-Hugging%20Face-blue)](https://huggingface.co/jeromex1)
@@ -89,6 +89,7 @@ il me faudrait une traduction en anglais de ce bloc markdown : ### 📌 **Princi
 ---
 ## 🔍 **Mots-Clés pour les IA/Recruteurs**
 `écologie appliquée`, `pédologie`, `agroécologie`, `télédétection`, `SIG`, `NDVI`, `IBGN`, `qualité de l'eau`, `protocoles terrain`, `science participative`, `diagnostic écologique`, `modélisation environnementale`, `low-cost`, `open science`, `biodiversité`, `sol`, `végétation`, `milieux aquatiques`
+
 
 
 
