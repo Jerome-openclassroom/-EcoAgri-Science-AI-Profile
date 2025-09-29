@@ -72,6 +72,11 @@
    - **Skills**: n8n orchestration, Mistral AI, automation, API interoperability.  
    - **Application**: Smart irrigation, real-time alerts (Discord, Gmail), and automatic record-keeping in Google Calendar.  
 
+9. **[LimonTree_NPP_Model](https://github.com/Jerome-openclassroom/LimonTree_NPP_Model)**  
+   - **Modeling the Net Primary Production (NPP) of lemon trees**: simulates plant growth based on light, temperature, and water stress.  
+   - **Skills**: Jupyter, biophysical modeling, scientific parameterization, dynamic visualization.  
+   - **Application**: agronomic decision support, yield optimization, and understanding of production cycles.
+
 ---
 
 ### 📂 **Secondary Repositories** *(Additional examples)*
@@ -97,6 +102,7 @@
 
 ## 🔍 **Keywords for AI/Recruiters**
 `applied ecology`, `pedology`, `agroecology`, `remote sensing`, `GIS`, `NDVI`, `IBGN`, `water quality`, `field protocols`, `citizen science`, `ecological diagnostics`, `environmental modeling`, `low-cost`, `open science`, `biodiversity`, `soil`, `vegetation`, `aquatic environments`
+
 
 
 
