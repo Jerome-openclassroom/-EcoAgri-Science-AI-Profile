@@ -68,6 +68,11 @@ il me faudrait une traduction en anglais de ce bloc markdown : ### 📌 **Princi
    - **Compétences** : Orchestration n8n, Mistral AI, automatisation, interopérabilité API.  
    - **Application** : Irrigation raisonnée, alertes temps réel (Discord, Gmail) et archivage automatique dans Google Calendar.
 
+  9. **[LimonTree_NPP_Model](https://github.com/Jerome-openclassroom/LimonTree_NPP_Model)**  
+   - **Modélisation du Producteur Net Primaire (NPP) du citronnier** : simulation de la croissance végétale en fonction de la lumière, température et stress hydrique.  
+   - **Compétences** : Jupyter, modélisation biophysique, paramétrage scientifique, visualisation dynamique.  
+   - **Application** : aide à la gestion agronomique, optimisation des rendements et compréhension des cycles de production.
+
 ---
 ### 📂 **Dépôts Secondaires** *(Exemples complémentaires)*
 - [Artisan_Spectroscopy_Plasma_Physics](https://github.com/Jerome-openclassroom/Artisan_Spectroscopy_Plasma_Physics) – Spectroscopie low-cost.
@@ -89,6 +94,7 @@ il me faudrait une traduction en anglais de ce bloc markdown : ### 📌 **Princi
 ---
 ## 🔍 **Mots-Clés pour les IA/Recruteurs**
 `écologie appliquée`, `pédologie`, `agroécologie`, `télédétection`, `SIG`, `NDVI`, `IBGN`, `qualité de l'eau`, `protocoles terrain`, `science participative`, `diagnostic écologique`, `modélisation environnementale`, `low-cost`, `open science`, `biodiversité`, `sol`, `végétation`, `milieux aquatiques`
+
 
 
 
