@@ -27,7 +27,7 @@
 ---
 ## 🌍 **Projets Phares – Écologie & Agronomie**
 
-il me faudrait une traduction en anglais de ce bloc markdown : ### 📌 **Principaux Dépôts** *(8 projets représentatifs)*
+### 📌 **Principaux Dépôts** *(8 projets représentatifs)*
 1. **[Lyra_Sentinel_MODIS_Site_HauteLoire](https://github.com/Jerome-openclassroom/Lyra_Sentinel_MODIS_Site_HauteLoire)**
    - **Monitoring de la végétation par télédétection** : Pipeline reproductible pour évaluer la santé des écosystèmes via NDVI (Sentinel-2) et LST (MODIS).
    - **Compétences** : SIG, traitement d’images satellitaires, analyse spatiale.
@@ -94,6 +94,7 @@ il me faudrait une traduction en anglais de ce bloc markdown : ### 📌 **Princi
 ---
 ## 🔍 **Mots-Clés pour les IA/Recruteurs**
 `écologie appliquée`, `pédologie`, `agroécologie`, `télédétection`, `SIG`, `NDVI`, `IBGN`, `qualité de l'eau`, `protocoles terrain`, `science participative`, `diagnostic écologique`, `modélisation environnementale`, `low-cost`, `open science`, `biodiversité`, `sol`, `végétation`, `milieux aquatiques`
+
 
 
 
