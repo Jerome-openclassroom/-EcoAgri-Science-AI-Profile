@@ -30,7 +30,7 @@
 
 ## 🌍 **Flagship Projects – Ecology & Agronomy**
 
-### 📌 **Main Repositories** *(8 representative projects)*
+### 📌 **Main Repositories** *(10 representative projects)*
 
 1. **[Lyra_Sentinel_MODIS_Site_HauteLoire](https://github.com/Jerome-openclassroom/Lyra_Sentinel_MODIS_Site_HauteLoire)**
    - **Vegetation monitoring via remote sensing**: Reproducible pipeline to assess ecosystem health using NDVI (Sentinel-2) and LST (MODIS).  
@@ -77,6 +77,12 @@
    - **Skills**: Jupyter, biophysical modeling, scientific parameterization, dynamic visualization.  
    - **Application**: agronomic decision support, yield optimization, and understanding of production cycles.
 
+10. **[Mistral_7B_AirQuality_LoRA](https://github.com/Jerome-openclassroom/Mistral_7B_AirQuality_LoRA/blob/main/README_En.md)**  
+    - **AI analysis of weather, air quality, and human health interactions**: fine-tuning of a **Mistral 7B (QLoRA 4-bit)** model to predict health impacts from environmental conditions.  
+    - **Skills**: Python, Pandas, MySQL, Transformers, QLoRA training, statistical validation, visualization.  
+    - **Application**: environmental and public health modeling, showcasing the performance of a lightweight French open-source model compared to GPT-3.5.
+
+
 ---
 
 ### 📂 **Secondary Repositories** *(Additional examples)*
@@ -102,6 +108,7 @@
 
 ## 🔍 **Keywords for AI/Recruiters**
 `applied ecology`, `pedology`, `agroecology`, `remote sensing`, `GIS`, `NDVI`, `IBGN`, `water quality`, `field protocols`, `citizen science`, `ecological diagnostics`, `environmental modeling`, `low-cost`, `open science`, `biodiversity`, `soil`, `vegetation`, `aquatic environments`
+
 
 
 
