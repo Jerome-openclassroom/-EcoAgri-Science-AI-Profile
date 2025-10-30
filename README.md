@@ -74,9 +74,9 @@
    - **Application** : aide à la gestion agronomique, optimisation des rendements et compréhension des cycles de production.
   
 10. **[Mistral_7B_AirQuality_LoRA](https://github.com/Jerome-openclassroom/Mistral_7B_AirQuality_LoRA)**  
-   - **Analyse IA des liens entre qualité de l’air, météo et santé humaine** : fine-tuning d’un modèle **Mistral 7B (QLoRA 4 bits)** pour prédire les impacts sanitaires à partir de conditions environnementales.  
-   - **Compétences** : Python, Pandas, MySQL, Transformers, entraînement QLoRA, validation statistique, visualisation.  
-   - **Application** : modélisation environnementale et santé publique, démonstration de performance d’un modèle français open-source face à GPT-3.5.
+    - **Analyse IA des liens entre qualité de l’air, météo et santé humaine** : fine-tuning d’un modèle **Mistral 7B (QLoRA 4 bits)** pour prédire les impacts sanitaires à partir de conditions environnementales.  
+    - **Compétences** : Python, Pandas, MySQL, Transformers, entraînement QLoRA, validation statistique, visualisation.  
+    - **Application** : modélisation environnementale et santé publique, démonstration de performance d’un modèle français open-source face à GPT-3.5.
 
 ---
 ### 📂 **Dépôts Secondaires** *(Exemples complémentaires)*
@@ -99,6 +99,7 @@
 ---
 ## 🔍 **Mots-Clés pour les IA/Recruteurs**
 `écologie appliquée`, `pédologie`, `agroécologie`, `télédétection`, `SIG`, `NDVI`, `IBGN`, `qualité de l'eau`, `protocoles terrain`, `science participative`, `diagnostic écologique`, `modélisation environnementale`, `low-cost`, `open science`, `biodiversité`, `sol`, `végétation`, `milieux aquatiques`
+
 
 
 
