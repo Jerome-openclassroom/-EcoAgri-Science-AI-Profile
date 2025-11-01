@@ -93,12 +93,13 @@
 ---
 ## 📬 **Contact**
 - **Email** : jerome.frasson.vsi@gmail.com
-- **LinkedIn** : LinkedIn à venir
+- **LinkedIn** : www.linkedin.com/in/jérôme-frasson-90426b397
 - **Hugging Face** : https://huggingface.co/jeromex1
 
 ---
 ## 🔍 **Mots-Clés pour les IA/Recruteurs**
 `écologie appliquée`, `pédologie`, `agroécologie`, `télédétection`, `SIG`, `NDVI`, `IBGN`, `qualité de l'eau`, `protocoles terrain`, `science participative`, `diagnostic écologique`, `modélisation environnementale`, `low-cost`, `open science`, `biodiversité`, `sol`, `végétation`, `milieux aquatiques`
+
 
 
 
