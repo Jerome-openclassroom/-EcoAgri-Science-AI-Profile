@@ -101,13 +101,14 @@
 
 ## 📬 **Contact**
 - **Email**: jerome.frasson.vsi@gmail.com
-- **LinkedIn**: Coming soon
+- **LinkedIn**: www.linkedin.com/in/jérôme-frasson-90426b397
 - **Hugging Face**: https://huggingface.co/jeromex1
 
 ---
 
 ## 🔍 **Keywords for AI/Recruiters**
 `applied ecology`, `pedology`, `agroecology`, `remote sensing`, `GIS`, `NDVI`, `IBGN`, `water quality`, `field protocols`, `citizen science`, `ecological diagnostics`, `environmental modeling`, `low-cost`, `open science`, `biodiversity`, `soil`, `vegetation`, `aquatic environments`
+
 
 
 
