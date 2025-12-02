@@ -78,6 +78,13 @@
     - **Compétences** : Python, Pandas, MySQL, Transformers, entraînement QLoRA, validation statistique, visualisation.  
     - **Application** : modélisation environnementale et santé publique, démonstration de performance d’un modèle français open-source face à GPT-3.5.
 
+11. **[Lyra_Mistral7B_agronomy](https://github.com/Jerome-openclassroom/Lyra_Mistral7B_agronomy)**  
+   - **Diagnostic agronomique automatisé (tomate)** : fine-tuning d’un **Mistral 7B (QLoRA)** pour prédire le statut azoté (déficit, normal, excès) à partir de trois mesures simples : nitrate du sol, pH, et **densité optique verte (DO)** issue d’un scanner low-cost.  
+   - **Innovation** : le modèle apprend réellement la relation physiologique **DO → SPAD** (erreur < ±1 SPAD), détecte le **stress non-azoté**, les cas de **chlorose ferrique**, et propose des recommandations de **lutte intégrée**.  
+   - **Compétences mobilisées** : Python, Pandas, QLoRA (fp16), design de dataset, Mistral-7B, validation numérique, agronomie végétale, open-science.  
+   - **Applications** : outils agronomiques embarqués, diagnostic en serre/parcelle, capteurs low-cost, agriculture de précision open-source.
+
+
 ---
 ### 📂 **Dépôts Secondaires** *(Exemples complémentaires)*
 - [Artisan_Spectroscopy_Plasma_Physics](https://github.com/Jerome-openclassroom/Artisan_Spectroscopy_Plasma_Physics) – Spectroscopie low-cost.
@@ -99,6 +106,7 @@
 ---
 ## 🔍 **Mots-Clés pour les IA/Recruteurs**
 `écologie appliquée`, `pédologie`, `agroécologie`, `télédétection`, `SIG`, `NDVI`, `IBGN`, `qualité de l'eau`, `protocoles terrain`, `science participative`, `diagnostic écologique`, `modélisation environnementale`, `low-cost`, `open science`, `biodiversité`, `sol`, `végétation`, `milieux aquatiques`
+
 
 
 
