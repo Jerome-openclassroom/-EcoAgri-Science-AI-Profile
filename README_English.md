@@ -81,6 +81,13 @@
     - **AI analysis of weather, air quality, and human health interactions**: fine-tuning of a **Mistral 7B (QLoRA 4-bit)** model to predict health impacts from environmental conditions.  
     - **Skills**: Python, Pandas, MySQL, Transformers, QLoRA training, statistical validation, visualization.  
     - **Application**: environmental and public health modeling, showcasing the performance of a lightweight French open-source model compared to GPT-3.5.
+   
+11. **[Lyra_Mistral7B_agronomy](https://github.com/Jerome-openclassroom/Lyra_Mistral7B_agronomy)**  
+   - **Automated agronomic diagnosis (tomato)** using a fine-tuned **Mistral 7B (QLoRA)** model predicting nitrogen status (deficit, normal, excess) from three simple measurements: soil nitrate, soil pH, and **green optical density (DO)** from low-cost leaf scanning.  
+   - **Key innovation**: the model accurately learns the physiological **DO → SPAD** relationship (error < ±1 SPAD), detects **non-nitrogen stress**, identifies **ferric chlorosis**, and provides **IPM (Integrated Pest Management)** recommendations.  
+   - **Skills**: Python, Pandas, QLoRA, dataset design, Mistral-7B, numerical validation, plant physiology, open-science workflows.  
+   - **Applications**: embedded agronomic tools, field/greenhouse diagnosis, low-cost sensors, open-source precision agriculture.
+
 
 
 ---
@@ -108,6 +115,7 @@
 
 ## 🔍 **Keywords for AI/Recruiters**
 `applied ecology`, `pedology`, `agroecology`, `remote sensing`, `GIS`, `NDVI`, `IBGN`, `water quality`, `field protocols`, `citizen science`, `ecological diagnostics`, `environmental modeling`, `low-cost`, `open science`, `biodiversity`, `soil`, `vegetation`, `aquatic environments`
+
 
 
 
