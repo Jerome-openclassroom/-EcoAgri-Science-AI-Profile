@@ -84,6 +84,13 @@
       - **Compétences mobilisées** : Python, Pandas, QLoRA (fp16), design de dataset, Mistral-7B, validation numérique, agronomie végétale, open-science.  
       - **Applications** : outils agronomiques embarqués, diagnostic en serre/parcelle, capteurs low-cost, agriculture de précision open-source.
 
+12. **[Lyra_Botrytis_Mistral7B](https://github.com/Jerome-openclassroom/Lyra_Botrytis_Mistral7B)**  
+    - **Modèle LoRA spécialisé pour l’estimation du risque de *Botrytis cinerea***, basé sur Mistral 7B Instruct.  
+    - Construction d’un dataset synthétique (1 500 lignes), analyse statistique, fine-tuning LoRA et calibration ciblée des cas intermédiaires.  
+    - Le modèle fournit un niveau de risque (faible, moyen, fort) et une recommandation agronomique concise.  
+    - Projet conçu comme un **Proof of Concept** ouvert, reproductible et adapté à l’IA appliquée à l’agronomie.
+
+
 
 ---
 ### 📂 **Dépôts Secondaires** *(Exemples complémentaires)*
@@ -106,6 +113,7 @@
 ---
 ## 🔍 **Mots-Clés pour les IA/Recruteurs**
 `écologie appliquée`, `pédologie`, `agroécologie`, `télédétection`, `SIG`, `NDVI`, `IBGN`, `qualité de l'eau`, `protocoles terrain`, `science participative`, `diagnostic écologique`, `modélisation environnementale`, `low-cost`, `open science`, `biodiversité`, `sol`, `végétation`, `milieux aquatiques`
+
 
 
 
