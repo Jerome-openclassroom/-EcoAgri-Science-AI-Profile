@@ -88,7 +88,7 @@
       - **Skills**: Python, Pandas, QLoRA, dataset design, Mistral-7B, numerical validation, plant physiology, open-science workflows.  
       - **Applications**: embedded agronomic tools, field/greenhouse diagnosis, low-cost sensors, open-source precision agriculture.
 
-12. **[Lyra_Botrytis_Mistral7B](https://github.com/Jerome-openclassroom/Lyra_Botrytis_Mistral7B)**  
+12. **[Lyra_Botrytis_Mistral7B](https://github.com/Jerome-openclassroom/Lyra_Botrytis_Mistral7B/blob/main/README_En.md)**  
     - **Domain-specific LoRA model for *Botrytis cinerea* risk estimation**, built on Mistral 7B Instruct.  
     - Includes a synthetic 1,500-sample dataset, statistical analysis, LoRA fine-tuning, and targeted calibration of intermediate risk cases.  
     - The model outputs a risk level (low, medium, high) and a concise agronomic recommendation.  
@@ -122,6 +122,7 @@
 
 ## 🔍 **Keywords for AI/Recruiters**
 `applied ecology`, `pedology`, `agroecology`, `remote sensing`, `GIS`, `NDVI`, `IBGN`, `water quality`, `field protocols`, `citizen science`, `ecological diagnostics`, `environmental modeling`, `low-cost`, `open science`, `biodiversity`, `soil`, `vegetation`, `aquatic environments`
+
 
 
 
