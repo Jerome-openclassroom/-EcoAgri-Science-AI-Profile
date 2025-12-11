@@ -94,7 +94,7 @@
     - The model outputs a risk level (low, medium, high) and a concise agronomic recommendation.  
     - Designed as an open, reproducible **Proof of Concept** for vertical AI applied to agronomy.
       
-13. **[Lyra_Mildew_Mistral7B]([https://github.com/Jerome-openclassroom/Lyra_Mildew_Mistral7B](https://github.com/Jerome-openclassroom/-EcoAgri-Science-AI-Profile/blob/main/README_English.md))**  
+13. **[Lyra_Mildew_Mistral7B](https://github.com/Jerome-openclassroom/-EcoAgri-Science-AI-Profile/blob/main/README_English.md)**  
     - **LoRA model specialized in assessing the risk of grapevine downy mildew (*Plasmopara viticola*)**, fine-tuned from Mistral 7B Instruct.  
     - Includes the construction of a 1,500-sample synthetic dataset, full statistical quality control, a 3-epoch LoRA fine-tuning phase, and a targeted calibration step using a 30-case extreme flowering dataset.  
     - The model outputs a risk level (low, medium, high) and provides concise, actionable agronomic recommendations.  
@@ -129,6 +129,7 @@
 
 ## 🔍 **Keywords for AI/Recruiters**
 `applied ecology`, `pedology`, `agroecology`, `remote sensing`, `GIS`, `NDVI`, `IBGN`, `water quality`, `field protocols`, `citizen science`, `ecological diagnostics`, `environmental modeling`, `low-cost`, `open science`, `biodiversity`, `soil`, `vegetation`, `aquatic environments`
+
 
 
 
