@@ -89,6 +89,12 @@
     - Construction d’un dataset synthétique (1 500 lignes), analyse statistique, fine-tuning LoRA et calibration ciblée des cas intermédiaires.  
     - Le modèle fournit un niveau de risque (faible, moyen, fort) et une recommandation agronomique concise.  
     - Projet conçu comme un **Proof of Concept** ouvert, reproductible et adapté à l’IA appliquée à l’agronomie.
+      
+13. **[Lyra_Mildew_Mistral7B](https://github.com/Jerome-openclassroom/Lyra_Mildew_Mistral7B)**  
+    - **Modèle LoRA spécialisé pour l’évaluation du risque de mildiou de la vigne (*Plasmopara viticola*)**, entraîné sur Mistral 7B Instruct.  
+    - Construction d’un dataset synthétique complet (1 500 lignes), contrôle qualité détaillé, fine-tuning LoRA sur 3 epochs, puis calibration ciblée via un mini-dataset de 30 cas extrêmes en floraison.  
+    - Le modèle prédit un niveau de risque (faible, moyen, élevé) et propose une recommandation agronomique concise et actionnable.  
+    - Projet conçu comme un **Proof of Concept reproductible**, documenté (graphes, QC, prompts, scripts), et orienté vers les usages concrets de l’IA appliquée à l’agronomie et aux systèmes d’aide à la décision.
 
 
 
@@ -113,6 +119,7 @@
 ---
 ## 🔍 **Mots-Clés pour les IA/Recruteurs**
 `écologie appliquée`, `pédologie`, `agroécologie`, `télédétection`, `SIG`, `NDVI`, `IBGN`, `qualité de l'eau`, `protocoles terrain`, `science participative`, `diagnostic écologique`, `modélisation environnementale`, `low-cost`, `open science`, `biodiversité`, `sol`, `végétation`, `milieux aquatiques`
+
 
 
 
