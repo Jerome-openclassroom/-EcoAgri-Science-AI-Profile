@@ -30,7 +30,7 @@
 
 ## 🌍 **Flagship Projects – Ecology & Agronomy**
 
-### 📌 **Main Repositories** *(10 representative projects)*
+### 📌 **Main Repositories** *(13 representative projects)*
 
 1. **[Lyra_Sentinel_MODIS_Site_HauteLoire](https://github.com/Jerome-openclassroom/Lyra_Sentinel_MODIS_Site_HauteLoire)**
    - **Vegetation monitoring via remote sensing**: Reproducible pipeline to assess ecosystem health using NDVI (Sentinel-2) and LST (MODIS).  
@@ -93,6 +93,13 @@
     - Includes a synthetic 1,500-sample dataset, statistical analysis, LoRA fine-tuning, and targeted calibration of intermediate risk cases.  
     - The model outputs a risk level (low, medium, high) and a concise agronomic recommendation.  
     - Designed as an open, reproducible **Proof of Concept** for vertical AI applied to agronomy.
+      
+13. **[Lyra_Mildew_Mistral7B](https://github.com/Jerome-openclassroom/Lyra_Mildew_Mistral7B)**  
+    - **LoRA model specialized in assessing the risk of grapevine downy mildew (*Plasmopara viticola*)**, fine-tuned from Mistral 7B Instruct.  
+    - Includes the construction of a 1,500-sample synthetic dataset, full statistical quality control, a 3-epoch LoRA fine-tuning phase, and a targeted calibration step using a 30-case extreme flowering dataset.  
+    - The model outputs a risk level (low, medium, high) and provides concise, actionable agronomic recommendations.  
+    - Designed as a **fully reproducible Proof of Concept**, with complete documentation (graphs, QC reports, prompts, scripts), aligned with the objectives of applied AI in agronomy and decision-support systems.  
+    - See the English portfolio overview here: **[EcoAgri-Science-AI-Profile (English)](https://github.com/Jerome-openclassroom/-EcoAgri-Science-AI-Profile/blob/main/README_English.md)**.
 
 
 
@@ -122,6 +129,7 @@
 
 ## 🔍 **Keywords for AI/Recruiters**
 `applied ecology`, `pedology`, `agroecology`, `remote sensing`, `GIS`, `NDVI`, `IBGN`, `water quality`, `field protocols`, `citizen science`, `ecological diagnostics`, `environmental modeling`, `low-cost`, `open science`, `biodiversity`, `soil`, `vegetation`, `aquatic environments`
+
 
 
 
