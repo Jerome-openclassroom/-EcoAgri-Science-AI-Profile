@@ -30,7 +30,7 @@
 
 ## 🌍 **Flagship Projects – Ecology & Agronomy**
 
-### 📌 **Main Repositories** *(13 representative projects)*
+### 📌 **Main Repositories** *(14 representative projects)*
 
 1. **[Lyra_Sentinel_MODIS_Site_HauteLoire](https://github.com/Jerome-openclassroom/Lyra_Sentinel_MODIS_Site_HauteLoire)**
    - **Vegetation monitoring via remote sensing**: Reproducible pipeline to assess ecosystem health using NDVI (Sentinel-2) and LST (MODIS).  
@@ -134,6 +134,7 @@
 
 ## 🔍 **Keywords for AI/Recruiters**
 `applied ecology`, `pedology`, `agroecology`, `remote sensing`, `GIS`, `NDVI`, `IBGN`, `water quality`, `field protocols`, `citizen science`, `ecological diagnostics`, `environmental modeling`, `low-cost`, `open science`, `biodiversity`, `soil`, `vegetation`, `aquatic environments`
+
 
 
 
