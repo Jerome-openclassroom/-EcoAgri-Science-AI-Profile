@@ -98,9 +98,14 @@
     - **LoRA model specialized in assessing the risk of grapevine downy mildew (*Plasmopara viticola*)**, fine-tuned from Mistral 7B Instruct.  
     - Includes the construction of a 1,500-sample synthetic dataset, full statistical quality control, a 3-epoch LoRA fine-tuning phase, and a targeted calibration step using a 30-case extreme flowering dataset.  
     - The model outputs a risk level (low, medium, high) and provides concise, actionable agronomic recommendations.  
-    - Designed as a **fully reproducible Proof of Concept**, with complete documentation (graphs, QC reports, prompts, scripts), aligned with the objectives of applied AI in agronomy and decision-support systems.  
-
-
+    - Designed as a **fully reproducible Proof of Concept**, with complete documentation (graphs, QC reports, prompts, scripts), aligned with the objectives of applied AI in agronomy and decision-support systems.
+   
+14. **[Lyra_Oidium_Mistral7B_8B](https://github.com/Jerome-openclassroom/Lyra_Oidium_Mistral7B_8B/blob/main/README_En.md)**  
+    - **AI model dedicated to grapevine powdery mildew (*Erysiphe necator*) risk prediction**, based on Mistral 7B (LoRA SFT) and Mistral 8B (lightweight SFT via AI Studio).  
+    - Design of a **structured synthetic agronomic dataset** (1,500 training samples + 100 eval), including **realistic borderline scenarios** (rainfall, evapotranspiration, threshold humidity), with full quality control.  
+    - Systematic comparison of two fine-tuning strategies: **targeted LoRA (Colab)** vs **lightweight SFT (AI Studio)**, reaching **comparable decision quality (~90% agronomic validity)** with complementary behaviors.  
+    - The model outputs a **clear risk level (low, medium, high)** and an **actionable, stage-aware agronomic recommendation**.  
+    - Project designed as a **reproducible applied AI Proof of Concept**, fully documented (datasets, prompts, QC, inference tests, API usage), and oriented toward **decision-support systems and automated workflows**.
 
 
 
@@ -129,6 +134,7 @@
 
 ## 🔍 **Keywords for AI/Recruiters**
 `applied ecology`, `pedology`, `agroecology`, `remote sensing`, `GIS`, `NDVI`, `IBGN`, `water quality`, `field protocols`, `citizen science`, `ecological diagnostics`, `environmental modeling`, `low-cost`, `open science`, `biodiversity`, `soil`, `vegetation`, `aquatic environments`
+
 
 
 
