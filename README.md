@@ -96,6 +96,14 @@
     - Le modèle prédit un niveau de risque (faible, moyen, élevé) et propose une recommandation agronomique concise et actionnable.  
     - Projet conçu comme un **Proof of Concept reproductible**, documenté (graphes, QC, prompts, scripts), et orienté vers les usages concrets de l’IA appliquée à l’agronomie et aux systèmes d’aide à la décision.
 
+14. **[Lyra_Oidium_Mistral7B_8B](https://github.com/Jerome-openclassroom/Lyra_Oidium_Mistral7B_8B)**  
+    - **Modèle IA spécialisé pour la prévision du risque d’oïdium de la vigne (*Erysiphe necator*)**, basé sur Mistral 7B (SFT LoRA) et Mistral 8B (SFT via AI Studio).  
+    - Conception d’un **dataset agronomique synthétique structuré** (1 500 lignes + 100 eval), intégrant des **cas frontières réalistes** (pluie, ETP, humidité limite), avec contrôle qualité exhaustif (doublons, répartition, cohérence).  
+    - Comparaison méthodique de deux stratégies de fine-tuning : **LoRA ciblée (Colab)** vs **SFT léger (AI Studio)**, montrant une **qualité décisionnelle équivalente (~90 % de validité)** avec des profils complémentaires.  
+    - Le modèle prédit un **niveau de risque (faible, moyen, élevé)** et génère une **recommandation agronomique concise, contextualisée et exploitable**, adaptée au stade phénologique.  
+    - Projet conçu comme un **Proof of Concept reproductible**, documenté de bout en bout (scripts, prompts, QC, tests d’inférence comparatifs, API), orienté **aide à la décision agronomique et intégration en workflows automatisés**.
+
+
 
 
 ---
@@ -119,6 +127,7 @@
 ---
 ## 🔍 **Mots-Clés pour les IA/Recruteurs**
 `écologie appliquée`, `pédologie`, `agroécologie`, `télédétection`, `SIG`, `NDVI`, `IBGN`, `qualité de l'eau`, `protocoles terrain`, `science participative`, `diagnostic écologique`, `modélisation environnementale`, `low-cost`, `open science`, `biodiversité`, `sol`, `végétation`, `milieux aquatiques`
+
 
 
 
