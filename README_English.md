@@ -107,6 +107,9 @@
     - The model outputs a **clear risk level (low, medium, high)** and an **actionable, stage-aware agronomic recommendation**.  
     - Project designed as a **reproducible applied AI Proof of Concept**, fully documented (datasets, prompts, QC, inference tests, API usage), and oriented toward **decision-support systems and automated workflows**.
 
+15. **[Lyra_Frost_Mistral](https://github.com/Jerome-openclassroom/Lyra_Frost_Mistral/blob/main/README_En.md)**  
+    - **Agent-based local frost risk assessment system** for operational agrometeorology, built on an **n8n + AI agent architecture** with deterministic physical calculations externalized (dew point, temperature–dew point spread).  
+    - Design of a **lightweight field-oriented application** (HTML/JavaScript) compatible with **consumer-grade weather stations**, featuring **full decision traceability** through Chain of Thoughts logging (Google Sheets audit) and concise actionable outputs (email/SMS).
 
 
 ---
@@ -134,6 +137,7 @@
 
 ## 🔍 **Keywords for AI/Recruiters**
 `applied ecology`, `pedology`, `agroecology`, `remote sensing`, `GIS`, `NDVI`, `IBGN`, `water quality`, `field protocols`, `citizen science`, `ecological diagnostics`, `environmental modeling`, `low-cost`, `open science`, `biodiversity`, `soil`, `vegetation`, `aquatic environments`
+
 
 
 
