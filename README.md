@@ -103,6 +103,10 @@
     - Le modèle prédit un **niveau de risque (faible, moyen, élevé)** et génère une **recommandation agronomique concise, contextualisée et exploitable**, adaptée au stade phénologique.  
     - Projet conçu comme un **Proof of Concept reproductible**, documenté de bout en bout (scripts, prompts, QC, tests d’inférence comparatifs, API), orienté **aide à la décision agronomique et intégration en workflows automatisés**.
 
+15. **[Lyra_Frost_Mistral](https://github.com/Jerome-openclassroom/Lyra_Frost_Mistral)**  
+    - **Système agentique de prévision du risque de gel local**, dédié à l’agrométéorologie opérationnelle, basé sur une **architecture n8n + agent IA** avec calculs physiques déterministes externalisés (point de rosée, spread).  
+    - Conception d’une **application terrain légère** (HTML/JavaScript) compatible avec des **stations météo grand public**, intégrant une **traçabilité complète des décisions** via journalisation de la *Chain of Thoughts* (audit Google Sheets), et une sortie actionnable (mail/SMS).
+
 
 
 
@@ -127,6 +131,7 @@
 ---
 ## 🔍 **Mots-Clés pour les IA/Recruteurs**
 `écologie appliquée`, `pédologie`, `agroécologie`, `télédétection`, `SIG`, `NDVI`, `IBGN`, `qualité de l'eau`, `protocoles terrain`, `science participative`, `diagnostic écologique`, `modélisation environnementale`, `low-cost`, `open science`, `biodiversité`, `sol`, `végétation`, `milieux aquatiques`
+
 
 
 
