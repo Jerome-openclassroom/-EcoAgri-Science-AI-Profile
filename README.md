@@ -15,14 +15,14 @@
 
 ---
 ## 🛠️ **Compétences Techniques Clés**
-| Compétence               | Outils/Technologies                          | Niveau       |
-|---------------------------|---------------------------------------------|--------------|
-| Diagnostic écologique     | IBGN, NPP, biodiversité, protocoles terrain | Expert       |
-| Pédologie                 | Texture (Lamotte), CEC, pH, nitrates, ImageJ | Expert       |
-| Télédétection             | Sentinel-2, MODIS, Google Earth Engine      | Avancé       |
-| Qualité de l’eau         | Turbidimétrie, oxygène dissous, GPT-3.5     | Expert       |
-| SIG & Cartographie        | NDVI, LST                                   | Avancé       |
-| Protocoles low-cost       | Kits terrain, capteurs DIY, scanner        | Expert       |
+| Compétence               | Outils/Technologies                          | 
+|---------------------------|---------------------------------------------|
+| Diagnostic écologique     | IBGN, NPP, biodiversité, protocoles terrain | 
+| Pédologie                 | Texture (Lamotte), CEC, pH, nitrates, ImageJ | 
+| Télédétection             | Sentinel-2, MODIS, Google Earth Engine      | 
+| Qualité de l’eau         | Turbidimétrie, oxygène dissous, GPT-3.5     | 
+| SIG & Cartographie        | NDVI, LST                                   | 
+| Protocoles low-cost       | Kits terrain, capteurs DIY, scanner        | 
 
 ---
 ## 🌍 **Projets Phares – Écologie & Agronomie**
