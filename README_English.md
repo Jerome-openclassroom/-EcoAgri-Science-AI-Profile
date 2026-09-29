@@ -17,14 +17,14 @@
 ---
 
 ## 🛠️ **Key Technical Skills**
-| Skill                     | Tools/Technologies                          | Level       |
-|---------------------------|---------------------------------------------|-------------|
-| Ecological diagnostics    | IBGN, NPP, biodiversity, field protocols    | Expert      |
-| Pedology                  | Texture (Lamotte), CEC, pH, nitrates, ImageJ | Expert      |
-| Remote Sensing            | Sentinel-2, MODIS, Google Earth Engine      | Advanced    |
-| Water Quality             | Turbidimetry, dissolved oxygen, GPT-3.5      | Expert      |
-| GIS & Mapping             | NDVI, LST	                       | Advanced    |
-| Low-cost protocols        | Field kits, DIY sensors, scanners           | Expert      |
+| Skill                     | Tools/Technologies                          | 
+|---------------------------|---------------------------------------------|
+| Ecological diagnostics    | IBGN, NPP, biodiversity, field protocols    | 
+| Pedology                  | Texture (Lamotte), CEC, pH, nitrates, ImageJ | 
+| Remote Sensing            | Sentinel-2, MODIS, Google Earth Engine      | 
+| Water Quality             | Turbidimetry, dissolved oxygen, GPT-3.5      | 
+| GIS & Mapping             | NDVI, LST	                       | 
+| Low-cost protocols        | Field kits, DIY sensors, scanners           | 
 
 ---
 
